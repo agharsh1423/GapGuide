@@ -1,0 +1,16 @@
+website 
+job resume ,recommendation system (acc to resume, recommend jobs that are for you (acc to skills recommend that)  )
+we will upload either the resume pdf or enter the text thing or txt file or word file okey or that leaf file that we use to make resume 
+
+now looking into the resume tell which jobs are good for you if possible go to github read the projects if the github url is given and then read the readme file and tell what kinds of jobe are better for you  i mean loka at everything like the whole skills and techniacal thinga and the projects and decoide whcich jobs are better and at what percent statics which is better consideringa ll 
+if they made a webside and all and link is given checkout the project and telll
+
+
+login signup for users 
+and also page that has something like you have a page you choose skills and it recommend swhich job is for you.
+also a chatboy when you upload a resime you can talk about it and also it should tell you what qiestion mighht come in interview related to his remume and all it should give that 
+
+
+so you have to amke a project that does that all these things automatically by ai agent , make it mern based if poebbile with backend and forntend 
+you may use python for agents if you want its all your choice 
+but website should be mern based you may also not use react
